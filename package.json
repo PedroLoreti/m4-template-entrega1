@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "tsnd --respawn src/index.ts",
     "test": "vitest"
   },
   "keywords": [],
